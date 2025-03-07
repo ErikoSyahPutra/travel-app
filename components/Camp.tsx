@@ -72,10 +72,9 @@ const Camp = () => {
             <strong>Feeling Lost </strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the most beautiful place in Indonesia, Putuk Truno
-            Camp will help you find your way to the most beautiful place in the
-            world. That&apos;s why we are here for those of you who are looking
-            for a place to start their journey.
+            {
+              "Starting from the most beautiful place in Indonesia, Putuk Truno Camp will help you find your way to the most beautiful place in the world. That's why we are here for those of you who are lookingfor a place to start their journey."
+            }
           </p>
           <Image
             src="quote.svg"
